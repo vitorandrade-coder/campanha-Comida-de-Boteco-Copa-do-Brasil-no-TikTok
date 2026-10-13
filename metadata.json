@@ -1,0 +1,6 @@
+{
+  "name": "Relatório de Performance - Agosto 2026",
+  "description": "Dashboard interativo de performance de marketing (GA4 e Redes Sociais) com a identidade visual da marca Assaí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
